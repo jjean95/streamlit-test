@@ -1,2 +1,2 @@
-# streamlit-test
+# Streamlit-test
 Streamlit practice 
